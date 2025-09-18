@@ -68,5 +68,3 @@ You: What’s the latest crypto regulation news?
 ## 📜 License
 
 MIT License. Free to use and modify.
-Do you want me to also add **an automatic scheduler** (like a daily digest email or Telegram bot) so it proactively *pushes* crypto security/savings tips to users, instead of only replying when asked?
-```
